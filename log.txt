@@ -1,0 +1,2 @@
+2023-07-15 15:24:02 INFO Start test 1
+2023-07-15 15:24:03 INFO Start test 2
